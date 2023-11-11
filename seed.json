@@ -1,0 +1,170 @@
+[
+    {
+        "customerName": "Jain Doe",
+        "briefName": "LIN YIN",
+        "briefId": 123412,
+        "date": "2023-11-11T12:37:20.161Z",
+        "isActive": true,
+        "id": "2252e54c-eb7b-4f05-90e9-23271dc14715"
+    },
+    {
+        "customerName": "John Smith",
+        "briefName": "ABC Company",
+        "briefId": 987654,
+        "date": "2023-11-12T08:45:30.542Z",
+        "isActive": false,
+        "id": "a1b2c3d4-e5f6-7890-1234-5678abcdef01"
+    },
+    {
+        "customerName": "Jane Doe",
+        "briefName": "XYZ Corporation",
+        "briefId": 555555,
+        "date": "2023-11-13T15:20:10.789Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Alex Johnson",
+        "briefName": "Tech Innovators",
+        "briefId": 456789,
+        "date": "2023-11-14T10:05:45.932Z",
+        "isActive": true,
+        "id": "98765432-1a2b-3c4d-5e6f-7890abcdef12"
+    },
+    {
+        "customerName": "Emma White",
+        "briefName": "Global Solutions",
+        "briefId": 333333,
+        "date": "2023-11-15T14:30:25.074Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "David Brown",
+        "briefName": "Innovate Tech",
+        "briefId": 654321,
+        "date": "2023-11-16T17:55:12.209Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Sophia Lee",
+        "briefName": "Future Solutions",
+        "briefId": 777777,
+        "date": "2023-11-17T21:20:33.337Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Matthew Miller",
+        "briefName": "Innovate Co.",
+        "briefId": 111111,
+        "date": "2023-11-18T03:45:44.465Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Olivia Davis",
+        "briefName": "Tech Solutions",
+        "briefId": 222222,
+        "date": "2023-11-19T07:10:55.590Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Liam Wilson",
+        "briefName": "Global Tech",
+        "briefId": 888888,
+        "date": "2023-11-20T11:36:12.714Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Ava Robinson",
+        "briefName": "Future Innovators",
+        "briefId": 999999,
+        "date": "2023-11-21T15:01:30.842Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Ethan Taylor",
+        "briefName": "Tech Co.",
+        "briefId": 444444,
+        "date": "2023-11-22T18:26:50.971Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Mia Martinez",
+        "briefName": "Innovate Solutions",
+        "briefId": 666666,
+        "date": "2023-11-23T21:52:15.097Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Noah Johnson",
+        "briefName": "Global Innovators",
+        "briefId": 123123,
+        "date": "2023-11-24T01:17:35.224Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Isabella Wilson",
+        "briefName": "Tech Solutions Co.",
+        "briefId": 777777,
+        "date": "2023-11-25T04:42:55.350Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "James Smith",
+        "briefName": "Innovate Tech Solutions",
+        "briefId": 345345,
+        "date": "2023-11-26T08:08:15.478Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Sophia Lee",
+        "briefName": "Future Innovate",
+        "briefId": 111222,
+        "date": "2023-11-27T11:33:35.603Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Jackson White",
+        "briefName": "Tech Innovators Co.",
+        "briefId": 444555,
+        "date": "2023-11-28T15:58:55.731Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Ava Robinson",
+        "briefName": "Global Solutions",
+        "briefId": 666999,
+        "date": "2023-11-29T19:24:15.858Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Ethan Taylor",
+        "briefName": "Innovate Tech Co.",
+        "briefId": 222333,
+        "date": "2023-11-30T22:49:35.984Z",
+        "isActive": true,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+        "customerName": "Mia Martinez",
+        "briefName": "Future Tech Innovators",
+        "briefId": 555666,
+        "date": "2023-12-01T02:14:56.111Z",
+        "isActive": false,
+        "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    }
+]

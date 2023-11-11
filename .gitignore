@@ -1,0 +1,83 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Optional: Uncomment the following lines if you use Yarn as your package manager
+# yarn.lock
+
+# Optional: Uncomment the following line if you want to ignore your local configuration file
+# .env
+
+# Dependency directories
+jspm_packages/
+
+# Optional: Uncomment the following line if you are using TypeScript
+# tsconfig.json
+
+# Optional: Uncomment the following line if you are using VSCode
+# .vscode/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Uncomment the following line if you use coverage reporting tools
+# coverage/
+
+# Optional: Uncomment the following line if you use nyc
+# .nyc_output/
+
+# Optional: Uncomment the following lines if you use Grunt
+# node_modules/
+# .grunt
+
+# Optional: Uncomment the following lines if you use Bower
+# bower_components/
+
+# Optional: Uncomment the following lines if you are using eslint
+# .eslintcache
+
+# Optional: Uncomment the following lines if you are using Parcel
+# .cache/
+# dist/
+
+# Optional: Uncomment the following lines if you are using Rollup
+# .rpt2_cache/
+# .rpt2_project/
+
+# Optional: Uncomment the following lines if you are using Snowpack
+# web_modules/
+
+# Optional: Uncomment the following lines if you use Flow
+# .flowconfig
+
+# Optional: Uncomment the following lines if you use Jest
+# .jest/
+# coverage/
+
+# Optional: Uncomment the following lines if you are using Prettier
+# .prettierrc
+# .prettierignore
+
+# Optional: Uncomment the following lines if you use webpack
+# .cache/
+# dist/
+
+# Optional: Uncomment the following lines if you use create-react-app
+# build/
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# Optional: Uncomment the following lines if you use Gatsby
+# .cache/
+# public/
+
+# Optional: Uncomment the following line if you use Vue.js
+# dist/
