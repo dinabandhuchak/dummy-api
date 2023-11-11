@@ -21,7 +21,7 @@ async function main() {
                 if (req.query?.customerName) query.customerName = req.query?.customerName;
                 if (req.query?.briefName) query.briefName = req.query?.briefName;
                 if (req.query?.briefId) query.briefId = req.query?.briefId;
-                if (typeof req.query?.isActive === "boolean") query.isActive = req.query?.isActive;
+                if (req.query?.isActive && (req.query?.isActive === "true" || req.query?.isActive === "false")) query.isActive = req.query?.isActive;
                 const accounts = await account.getAll(query);
                 res.send({
                     accounts,
